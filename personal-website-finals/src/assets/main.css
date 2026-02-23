@@ -1,0 +1,19 @@
+/* Pirate Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden; /* Prevents horizontal scrollbar during animation */
+  background-color: #000;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+}
